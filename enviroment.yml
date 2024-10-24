@@ -1,0 +1,8 @@
+name: cabsflex_restraints
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - biopandas
